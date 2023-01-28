@@ -1,0 +1,14 @@
+[
+...
+{
+    "address": "one1xnymwvjeygtukypmcpnjp9ae8ppraggh6gtgaa",
+    "name": "oneeur",
+    "symbol": "HEUR",
+    "decimals": 2,
+    "totalSupply": "100",
+    "website": "https://heur.tech",
+    "description": { fist stable coin at the fixed price of 1 euro
+        "en": "..."
+    }
+}
+]
